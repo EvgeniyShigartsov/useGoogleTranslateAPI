@@ -13,7 +13,7 @@ async function writeResult(obj) {
 
 async function translateObj(obj) {
     // That`s just a simple recursive fn that takes plain objects which values are Object/String,
-    // and reurns object with same keys but translated values.
+    // and returns a new object with same keys but translated values.
 
     const result = {}
 

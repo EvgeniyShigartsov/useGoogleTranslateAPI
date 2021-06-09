@@ -1,0 +1,23 @@
+{
+    "name": "use-google-translate-api",
+    "version": "1.0.0",
+    "description": "Some example ho to use Google translate API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EvgeniyShigartsov/useGoogleTranslateAPI.git"
+    },
+    "author": "Evgeniy Shyhartsov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EvgeniyShigartsov/useGoogleTranslateAPI/issues"
+    },
+    "homepage": "https://github.com/EvgeniyShigartsov/useGoogleTranslateAPI#readme",
+    "dependencies": {
+        "@google-cloud/translate": "^6.2.2",
+        "dotenv": "^10.0.0"
+    }
+}

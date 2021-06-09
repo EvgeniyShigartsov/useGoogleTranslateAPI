@@ -1,1 +1,1 @@
-**Just a simpe example of google translate API usage.**
+**Just a simple example of google translate API usage.**

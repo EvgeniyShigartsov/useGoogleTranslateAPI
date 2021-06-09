@@ -1,7 +1,7 @@
 {
     "name": "use-google-translate-api",
     "version": "1.0.0",
-    "description": "Some example ho to use Google translate API",
+    "description": "Some example how to use Google translate API",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
